@@ -34,7 +34,7 @@
         "tar": "^4.4.8"
     },
     "devDependencies": {
-        "browser-sync": "*",
+        "browser-sync": "^2.26.7",
         "gulp": "*",
         "gulp-clean-css": "*",
         "gulp-header": "*",
